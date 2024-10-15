@@ -1,0 +1,13 @@
+.one{
+    color: blueviolet;
+    font-size: 100px;
+}
+.container{
+    background-color: red;
+}
+.two{
+    border: 2px solid black;
+}
+.three{
+    border: 2px dotted black;
+}
